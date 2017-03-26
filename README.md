@@ -1,35 +1,27 @@
-## Bienvenido a las páginas de GitHub
+## Bienvenido a la página del proyecto ...
 
-Puedes utilizar el [editor de GitHub](https://github.com/acominf/CorreCorre/edit/master/README.md) para modificar la página de tu proyecto usando el lenguaje Markdown.
+### Objetivo
+El objetivo de este proyecto es ...
+
+### Descripción
+La descripción de este proyecto es ...
+
+### Historias de usuario
+Las historias de usuario son:
+
+1. _Como_ usuario _quiero_ objetivo _para_ razón.
+2. _Como_ usuario _quiero_ objetivo _para_ razón.
+3. _Como_ usuario _quiero_ objetivo _para_ razón.
+4. _Como_ usuario _quiero_ objetivo _para_ razón.
+5. _Como_ usuario _quiero_ objetivo _para_ razón.
+6. _Como_ usuario _quiero_ objetivo _para_ razón.
+7. _Como_ usuario _quiero_ objetivo _para_ razón.
+8. _Como_ usuario _quiero_ objetivo _para_ razón.
+9. _Como_ usuario _quiero_ objetivo _para_ razón.
+10. _Como_ usuario _quiero_ objetivo _para_ razón.
 
 ### Markdown
-
-Markdown es un lenguaje sencillo para darle presentación a tu página. Incluye convenciones para 
-
-```markdown
-Bloque de código resaltado
-
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-
-- Listas
-- Viñetas
-
-1. Listas
-2. Numeradas
-
-**Negritas** y _Cursivas_ y `Código`
-
-[Enlace](url) e ![Imagen](src)
-```
-
-Para más detalles ver la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
+El contenido de tu página está escrito en un lenguaje de marcado sencillo llamado Markdown. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ### Temas de Jekyll
-
-La página de tu sitio usa el acomodo y estilo del tema de Jekyll seleccionado en la [configuración de tu repositorio](https://github.com/acominf/CorreCorre/settings). El nombre de este tema está almacenado en el archivo de configuración `_config.yml`.
-
-### Soporte
-
-¿Tienes problemas con GitHub Pages? Revisa nuestra [documentación](https://help.github.com/categories/github-pages-basics/).
+Es estilo y presentación de tu página utiliza el tema de Jekyll seleccionado en la configuración de tu repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para mayor información acerca de los temas soportados por GitHub haz [click aquí](https://pages.github.com/themes/).
