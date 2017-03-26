@@ -1,10 +1,13 @@
-## Bienvenido a la página del proyecto ...
-
 ### Objetivo
-El objetivo de este proyecto es ...
+El objetivo del proyecto es ...
 
 ### Descripción
-La descripción de este proyecto es ...
+La descripción del proyecto es ...
+
+### Autor(es)
+El autor(es) del proyecto son:
+- Nombre completo del autor 1
+- Nombre completo del autor 2
 
 ### Historias de usuario
 Las historias de usuario son:
@@ -21,7 +24,7 @@ Las historias de usuario son:
 10. _Como_ usuario _quiero_ objetivo _para_ razón.
 
 ### Markdown
-El contenido de tu página está escrito en un lenguaje de marcado sencillo llamado Markdown. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
+El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ### Temas de Jekyll
-Es estilo y presentación de tu página utiliza el tema de Jekyll seleccionado en la configuración de tu repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para mayor información acerca de los temas soportados por GitHub haz [click aquí](https://pages.github.com/themes/).
+El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
